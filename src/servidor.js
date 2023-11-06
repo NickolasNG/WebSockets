@@ -18,4 +18,4 @@ servidorHttp.listen(porta, () => console.log(`Server escutando na porta ${porta}
 
 const io = new Server(servidorHttp);
 
-export default io;
+export default io; 
